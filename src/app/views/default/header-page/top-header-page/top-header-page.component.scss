@@ -1,0 +1,41 @@
+.header {
+    width: 100% ;
+    overflow: hidden;
+    background-color:#FFFFFF;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.logo{
+    margin-right: 13%;
+    height: 56px;
+    width: 229;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.menu{
+    margin-top: 45px;
+    
+}
+
+.menu a{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #332873;
+    margin-right: 50px;
+}
+
+.image{
+    margin-top: 40px;
+    margin-right: 5px;
+}
+
+.login{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #332873;
+    margin-top: 45px;
+}
